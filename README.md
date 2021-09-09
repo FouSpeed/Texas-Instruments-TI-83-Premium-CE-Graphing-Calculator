@@ -1,6 +1,6 @@
 # TI Connect Python programs
 
-## nombrepremier.py
+## primenumbers
 
 This script decompose a number into products of prime numbers.
 The result is 2 lists : 
@@ -9,12 +9,12 @@ The result is 2 lists :
 
 ### exemple
 
-'''bash
+```bash
 Number to decompose: 75
 [3, 5, 5]
 [1, 3, 5, 15, 25, 75]
 do you want to retry (0/1)?
-'''
+```
 
 ## Autors
 
