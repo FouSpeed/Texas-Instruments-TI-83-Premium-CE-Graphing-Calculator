@@ -36,4 +36,4 @@ do you want to retry (0/1)?
 
 ## Autors
 
-* Thomas FELMY
+* FouSpeed
